@@ -11,3 +11,4 @@ README for project 0x03-shell_variables_expansions
 9-divide_and_rule - script that prints the result of POWER and DIVIDE, followed by a new line ,POWER and DIVIDE are environment variable
 10-love_exponent_breath - script that prints the result of BREATHE the power of LOVE
 11-binary_to_decimal - script that converts a number from  base 2 to base 10
+12-combinations - script that prints all posible cobinations of two letters
