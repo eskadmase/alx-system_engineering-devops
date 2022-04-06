@@ -13,3 +13,4 @@ README for project 0x03-shell_variables_expansions
 11-binary_to_decimal - script that converts a number from  base 2 to base 10
 12-combinations - script that prints all posible cobinations of two letters
 13-print_float -script that prints two decimal place of a number
+100-decimal_to_hexadecimal - script that converts a number from base 10 to base 16
