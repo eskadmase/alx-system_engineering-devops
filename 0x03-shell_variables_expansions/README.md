@@ -9,3 +9,4 @@ README for project 0x03-shell_variables_expansions
 7-create_global_variable - script that creates global variable
 8-true_knowledge - script that prints the result of 128 with the value stored in TRUEKNOWLEDGE environment variable
 9-divide_and_rule - script that prints the result of POWER and DIVIDE, followed by a new line ,POWER and DIVIDE are environment variable
+10-love_exponent_breath - script that prints the result of BREATHE the power of LOVE
