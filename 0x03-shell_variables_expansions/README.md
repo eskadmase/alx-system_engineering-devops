@@ -5,3 +5,4 @@ README for project 0x03-shell_variables_expansions
 3-paths - script that counts the number of directories in the path
 4-global_variables - script that lists environment variables
 5-local_variables -script that lists all local and environment variables and functions
+6-create_local_variable - script that creates new local variables
